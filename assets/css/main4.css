@@ -3182,7 +3182,7 @@ input[type="button"]:disabled,
 	background-position: center center;
 	background-size: cover;
 	box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
-	height: 100vh;
+	height: 120vh;
 	overflow: hidden;
 	position: relative;
 }
@@ -3354,7 +3354,7 @@ input[type="button"]:disabled,
 .spotlight.left .content,
 .spotlight.right .content {
 	height: 101%;
-	padding: 0.5em 3em;
+	padding: 3em 3em;
 	top: 0;
 	width: 28em;
 }
@@ -3362,7 +3362,7 @@ input[type="button"]:disabled,
 /*#second div from right with graph*/
 .spotlight.left .content_right_left {
 	height: 101%;
-	padding: 6em 3em;
+	padding: 3em 3em;
 	top: 0;
 	width: 100%;
 	margin-left: 0%;
